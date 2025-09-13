@@ -74,7 +74,7 @@ export const Team = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Meet Team
             <span className="block bg-gradient-to-r from-sports-blue to-sports-orange bg-clip-text text-transparent">
-              Tech Titans
+              Team Infinity
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
@@ -183,7 +183,7 @@ export const Team = () => {
         {/* Competition info */}
         <Card className="p-8 bg-hero-gradient text-white text-center">
           <Trophy className="w-12 h-12 mx-auto mb-4 text-warning-yellow" />
-          <h3 className="text-2xl font-bold mb-4">Smart India Hackathon 2024</h3>
+          <h3 className="text-2xl font-bold mb-4">Hackathon2.0 2024</h3>
           <div className="grid md:grid-cols-3 gap-6 mb-6">
             <div>
               <div className="text-lg font-bold">Problem Statement</div>

@@ -37,7 +37,7 @@ export const Hero = () => {
         <div className="max-w-4xl mx-auto animate-slide-up">
           {/* Badge */}
           <Badge variant="secondary" className="mb-6 bg-white/20 text-white border-white/30 backdrop-blur-sm">
-            Smart India Hackathon 2024 - Team Tech Titans
+            Hackathon2.0 2024 - Team Infinity
           </Badge>
           
           {/* Main heading */}

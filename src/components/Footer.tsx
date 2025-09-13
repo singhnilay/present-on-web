@@ -20,7 +20,7 @@ export const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <Trophy className="w-8 h-8 text-warning-yellow" />
-              <span className="text-2xl font-bold">Tech Titans</span>
+              <span className="text-2xl font-bold">Team Infinity</span>
             </div>
             <p className="text-white/80 mb-6 max-w-md">
               Revolutionizing anti-doping education through innovative technology, 
@@ -28,7 +28,7 @@ export const Footer = () => {
             </p>
             <div className="flex flex-wrap gap-3 mb-6">
               <Badge variant="secondary" className="bg-white/20 text-white border-white/30">
-                Smart India Hackathon 2024
+                Hackathon2.0 2024
               </Badge>
               <Badge variant="secondary" className="bg-white/20 text-white border-white/30">
                 SIH1722
@@ -158,7 +158,7 @@ export const Footer = () => {
         {/* Bottom section */}
         <div className="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-white/80 text-sm mb-4 md:mb-0">
-            © 2024 Tech Titans - Smart India Hackathon 2024 Entry
+            © 2024 Team Infinity - Hackathon2.0 2024 Entry
           </div>
           
           <div className="flex items-center gap-4">
