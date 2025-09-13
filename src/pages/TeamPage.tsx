@@ -1,15 +1,15 @@
-import { Hero } from "@/components/Hero";
+import { Team } from "@/components/Team";
 import Navbar from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 
-const Index = () => {
+const TeamPage = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      <Hero />
+      <Team />
       <Footer />
     </div>
   );
 };
 
-export default Index;
+export default TeamPage;
